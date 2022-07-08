@@ -1,0 +1,47 @@
+
+.color-prin{
+    background-color: rgb(4, 4, 114);
+}
+
+.color-work{
+ background-color: coral;
+ background-image: url("../assent/icon-work.svg");
+ background-position: 120pt;
+ background-repeat: no-repeat;
+ background-size: auto;
+}
+.color-play{
+background-color: aqua;
+background-image: url("../assent/icon-play.svg");
+background-position: 120pt;
+background-repeat: no-repeat;
+background-size: auto;
+}
+.color-study{
+    background-color:deeppink;
+    background-image: url("../assent/icon-study.svg");
+    background-position: 120pt;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.color-exercise{
+    background-color:rgba(128, 255, 0, 0.842);
+    background-image: url("../assent/icon-exercise.svg");
+    background-position: 120pt;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.color-social{
+    background-color: rgba(165, 6, 165, 0.753);
+    background-image: url("../assent/icon-social.svg");
+    background-position: 120pt;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.color-self{
+    background-color: rgb(240, 225, 23);
+    background-image: url("../assent/icon-self-care.svg");
+    background-position: 120pt;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
